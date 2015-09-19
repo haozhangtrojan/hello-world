@@ -11,3 +11,4 @@ version 3.0 End
 
 great work finished by HAO ZHANG
 Date: Sep18, 2015
+add new feature done
